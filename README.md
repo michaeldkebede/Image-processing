@@ -1,6 +1,6 @@
 # Image-processing
 A multifunctional image processing program.
 
-##Software Requirements:
+## Software Requirements:
 
-[!https://github.com/michaeldkebede/Image-processing/edit/master/Screenshot from 2021-11-18 17-00-18.png]
+[!https://github.com/michaeldkebede/Image-processing/blob/master/Screenshot%20from%202021-11-18%2017-00-18.png]
