@@ -3,4 +3,4 @@ A multifunctional image processing program.
 
 ## Software Requirements:
 
-[!https://github.com/michaeldkebede/Image-processing/blob/master/Screenshot%20from%202021-11-18%2017-00-18.png]
+![Screenshot from 2021-11-18 17-00-18](https://user-images.githubusercontent.com/40122710/142432827-52c914bb-0b2c-4c7d-8b38-cfad11f46afb.png)
