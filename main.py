@@ -2,10 +2,11 @@
 
 import tkinter as tk
 
-window = tk.Tk()
-txt = tk.Label(text="Python rocks!")
-txt.pack()
 
-image = tk.PhotoImage(file='download.png')
-txt['image'] = image
-window.mainloop()
+
+def main():
+    print("abebe")
+
+# Call to main function
+if __name__=="__main__":
+    main()
